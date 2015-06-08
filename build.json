@@ -1,0 +1,31 @@
+{
+    "version" : "1.0.17",
+    "production" : "http://www.quxiu.me",
+    "dev" : "http://dev.admin.quxiu.me",
+    "rc" : "http://rc.quxiu.me",
+    "test" : "http://test.admin.quxiu.me",
+    "u" : "http://dev.admin.quxiu.me",
+    "includes" : {
+      "imageUploadUrl" : "${host}/m.php?m=File&a=do_upload_img&id=nav_line",
+      "gUploadImage"   : "${host}/m.php?m=File&a=do_upload_img&id=nav_line"
+    },
+
+    "nav" : {
+        "items" : [
+          {
+            "id" : "l001",
+            "icon":" fa-th-large",
+            "item" : "首页运营",
+            "url" : "../html/homepage_config.html",
+            "children" : [
+              {
+                "id" : "l0011",
+                "item" : "首页栏目配置",
+                "url" : "../html/homepage_config.html"
+              }
+            ]
+          }
+        ]
+    },
+    "debug" : "true"
+}

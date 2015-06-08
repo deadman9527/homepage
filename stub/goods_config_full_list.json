@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "responseBody": {
+        "responseInfo": {
+            "reasons": {
+                "code": "0000",
+                "type": 0,
+                "msg": "操作成功"
+            }
+        },
+        "data": [
+            {
+                "id": "12",
+                "name": "首页banner",
+                "height": "0",
+                "width": "0"
+            },
+            {
+                "id": "13",
+                "name": "特卖专场页banner",
+                "height": "0",
+                "width": "0"
+            }
+        ]
+    }
+}

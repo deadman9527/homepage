@@ -1,0 +1,98 @@
+{
+  "statusCode": 200,
+  "responseBody": {
+    "responseInfo": {
+      "reasons": {
+        "code": "0000",
+        "type": 0,
+        "msg": "请求成功!"
+      }
+    },
+    "data": {
+      "list": [
+        {
+          "id": "4",
+          "name": "demo88",
+          "type": "3",
+          "logo": "url",
+          "banner": "banner",
+          "is_banner_dis": "0",
+          "is_pc_dis": "0",
+          "is_app_dis": "0",
+          "url": "url",
+          "tpl_type": "1",
+          "sort": "1",
+          "type_id": 1,
+          "is_effect": "0",
+          "is_del": "0",
+          "goods_count": "1"
+        },
+        {
+          "id": "3",
+          "name": "demo",
+          "type": "2",
+          "logo": "url",
+          "banner": "banner",
+          "is_banner_dis": "0",
+          "is_pc_dis": "0",
+          "is_app_dis": "0",
+          "url": "url",
+          "tpl_type": "1",
+          "sort": "0",
+          "type_id": 1,
+          "is_effect": "0",
+          "is_del": "0",
+          "goods_count": "1"
+        },
+        {
+          "id": "2",
+          "name": "test",
+          "type": "2",
+          "logo": "url",
+          "type_id": 1,
+          "banner": "banner",
+          "is_banner_dis": "0",
+          "is_pc_dis": "0",
+          "is_app_dis": "0",
+          "url": "url",
+          "tpl_type": "1",
+          "sort": "0",
+          "is_effect": "0",
+          "is_del": "0",
+          "goods_count": "1"
+        },
+        {
+          "id": "1",
+          "name": "\r\n人气单品推荐",
+          "type": "1",
+          "logo": "",
+          "banner": "",
+          "is_banner_dis": "1",
+          "is_pc_dis": "1",
+          "is_app_dis": "1",
+          "url": "",
+          "type_id": 1,
+          "tpl_type": "1",
+          "sort": "0",
+          "is_effect": "1",
+          "is_del": "0",
+          "goods_count": "1"
+        }
+      ],
+      "types": [
+        {
+          "id": 1,
+          "value": "爆款"
+        },
+        {
+          "id": 2,
+          "value": "专题"
+        },
+        {
+          "id": 3,
+          "value": "系列"
+        }
+      ]
+    }
+  }
+}

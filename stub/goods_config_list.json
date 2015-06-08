@@ -1,0 +1,75 @@
+{
+  "statusCode": 200,
+  "responseBody": {
+    "responseInfo": {
+      "reasons": {
+        "code": "0000",
+        "type": 0,
+        "msg": "请求成功!"
+      }
+    },
+    "data": {
+      "list": [
+        {
+          "id": "206",
+          "nav_id": "10",
+          "goods_id": "24415",
+          "goods_banner": "http://test.img.ve.cn/public/attachment/201505/28/18/20150528185250167.jpg",
+          "is_pc_dis": "1",
+          "is_app_dis": "1",
+          "sort": "0",
+          "name": "test3 西瓜红",
+          "is_effect": "0"
+        },
+        {
+          "id": "207",
+          "nav_id": "10",
+          "goods_id": "24414",
+          "goods_banner": "",
+          "is_pc_dis": "0",
+          "is_app_dis": "0",
+          "sort": "0",
+          "name": "test3 橙色",
+          "is_effect": "0"
+        },
+        {
+          "id": "208",
+          "nav_id": "10",
+          "goods_id": "24413",
+          "goods_banner": "",
+          "is_pc_dis": "0",
+          "is_app_dis": "0",
+          "sort": "0",
+          "name": "test3 黄色",
+          "is_effect": "0"
+        },
+        {
+          "id": "209",
+          "nav_id": "10",
+          "goods_id": "24412",
+          "goods_banner": "",
+          "is_pc_dis": "0",
+          "is_app_dis": "0",
+          "sort": "0",
+          "name": "test3 黑色",
+          "is_effect": "0"
+        },
+        {
+          "id": "210",
+          "nav_id": "10",
+          "goods_id": "24411",
+          "goods_banner": "",
+          "is_pc_dis": "0",
+          "is_app_dis": "0",
+          "sort": "0",
+          "name": "testing 褐色",
+          "is_effect": "0"
+        }
+      ],
+      "total": "5",
+      "pagesize": 20,
+      "total_pages": 1,
+      "page": 1
+    }
+  }
+}

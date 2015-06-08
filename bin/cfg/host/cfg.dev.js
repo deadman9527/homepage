@@ -1,0 +1,1 @@
+cobra.add({"imageUploadUrl":"http://dev.admin.quxiu.me/m.php?m=File&a=do_upload_img&id=nav_line","gUploadImage":"http://dev.admin.quxiu.me/m.php?m=File&a=do_upload_img&id=nav_line","dev":"http://dev.admin.quxiu.me","use":"dev"});
