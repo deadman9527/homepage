@@ -7,4 +7,4 @@
         "script": ["src/fn/image_config.js","src/plugins/uploadify/jquery.uploadify.js", "src/plugins/miniDialog.js","src/fn/goods_config.js"],
         "style": ["style/css/plugins/uploadify/uploadify.css"]
   }
-}  
+}     
